@@ -1,6 +1,6 @@
 # Portfolio testeur logiciel
 
-*Sylvie B - Candidate ISTQB CTFL v4.0**
+*Sylvie B - Candidate ISTQB CTFL v4.0*
 
 ## Qui je suis
 
