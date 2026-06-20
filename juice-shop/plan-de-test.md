@@ -41,7 +41,7 @@ l'application pour comprendre son comportement :
   par la touche Entrée
 - Le champ vide affiche les 46 produits du catalogue
   (15 par page)
-- Le moteur recherche par chaîne de caractères —
+- Le moteur recherche par chaîne de caractères - 
   "apple" retourne aussi "pomme" et "Pineapple Juice"
 - La langue peut être changée mais certains articles
   restent en anglais
