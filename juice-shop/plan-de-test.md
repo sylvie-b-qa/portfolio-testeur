@@ -1,4 +1,4 @@
-# Plan de test — OWASP Juice Shop
+# Plan de test - OWASP Juice Shop
 
 ## Objectif
 Vérifier le comportement du moteur de recherche et du formulaire 
@@ -30,7 +30,7 @@ Application Juice Shop accessible sur http://localhost:3000
 Tous les cas de test exécutés, anomalies documentées
 
 ## Testeur
-Sylvie B — Juin 2026
+Sylvie B - Juin 2026
 
 ## Phase d'exploration préalable
 
