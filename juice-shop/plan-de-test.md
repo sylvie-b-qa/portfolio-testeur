@@ -5,7 +5,7 @@ Vérifier le comportement du moteur de recherche et du formulaire
 d'inscription de l'application OWASP Juice Shop.
 
 ## Application
-OWASP Juice Shop — application volontairement défectueuse, 
+OWASP Juice Shop - application volontairement défectueuse, 
 conçue pour s'entraîner au test logiciel.
 Version locale : http://localhost:3000
 
