@@ -327,6 +327,8 @@ stateDiagram-v2
 **Résultat obtenu :** Page de confirmation affichée et email de confirmation reçu
 **Statut :** Passé
 
+*Note : le rendez-vous a été annulé après le test.*
+
 ---
 
 ### DOC-CT-19 — T8 : annuler le RDV depuis la page récapitulatif
